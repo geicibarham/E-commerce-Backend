@@ -1,10 +1,10 @@
-#E-commerce-Backend
+# E-Commerce Back End
 
 ## Licensing
 
 [![license](https://img.shields.io/badge/license-MIT-success)](https://opensource.org/licenses/MIT)
 
-## E-Commerce Back End
+
 This application is the back end of a hypothetical e-commerce website. It contains models and routes for a variety of products, product categories, and product tags, and connects to a MySQL database. Using Insomnia, various routes (GET, GET by id, POST, PUT, and DELETE) for these three items can be visualized, as the application currently has no front end.
 
 
