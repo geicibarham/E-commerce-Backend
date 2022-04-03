@@ -14,7 +14,8 @@ Clone the repository to your local machine. You should also have Git Bash, Node.
 Usage
 No front end
 
-This video details how to use the E-Commerce Back End application.
+[This video](https://drive.google.com/file/d/1Su16y76_-CpKJ2r-_YvhN9NfLzuG3ddJ/view) shows the step by step on how to use this application.
+
 
 Credits
 This application relies on express, sequelize, and mysql. It also uses dotenv.
